@@ -1,0 +1,8 @@
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=gdm.xml
+Name=Ultra
+Description=A simple GDM theme for Ultra.  Based on the sunergos greeter.
+Author=Miga
+Copyright=(c) 2012 Miga.
+Screenshot=screenshot.png
