@@ -1,0 +1,7 @@
+Package: edc-background-common
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Miga <miga@migaverse.xyz>
+Description: Common backgrounds for EDC

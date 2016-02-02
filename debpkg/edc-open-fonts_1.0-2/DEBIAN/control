@@ -1,0 +1,9 @@
+Package: edc-open-fonts
+Version: 1.0-2
+Architecture: all
+Maintainer: Miga <miga@migaverse.xyz>
+Section: fonts
+Priority: optional
+Description: EDC Open Fonts Package
+ This package contains various fonts with free and open
+ source licenses.

@@ -1,0 +1,11 @@
+Package: archey
+Version: 0.2.8.edc-1
+Architecture: all
+Maintainer: Miga <miga@migaverse.xyz>
+Installed-Size: 11
+Depends: python , scrot , lsb-release
+Section: main
+Priority: optional
+Homepage: http://github.com/djmelik/archey/
+Description: Archey
+ A simple system information tool written in Python.

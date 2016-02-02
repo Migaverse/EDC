@@ -1,0 +1,7 @@
+EDC Open Fonts
+
+This is a collection of fonts that are used both internally at Migaverse as well as available under free and open source licenses.
+
+This package is created to expand those available in Debian, and are included by default with EDC. This package should be completely compatible with Debian, however, it was not tested on any derivatives, omitting EDC, such as Ubuntu. It will most likely work, however.
+
+The fonts included here are not in Debian's repositories, so they should not conflict with any of the fonts available in the Debian APT repos. If they do, please file a bug report.

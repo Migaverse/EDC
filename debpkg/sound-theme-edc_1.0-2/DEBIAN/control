@@ -1,0 +1,8 @@
+Package: sound-theme-edc
+Version: 1.0-2
+Section: base
+Priority: optional
+Architecture: all
+Replaces: sound-theme-freedesktop
+Maintainer: Miga <miga@migaverse.xyz>
+Description: Sound theme for EDC

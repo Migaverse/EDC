@@ -1,0 +1,42 @@
+The EDC sound theme for Freedesktop was created using sounds from the following sound themes:
+fLight
+ITW Sounds
+Feather Sound Set
+
+All of these sounds are licensed under the Artistic 2.0 license.
+
+The following sounds are from the original Freedesktop sound theme:
+
+Files: stereo/audio-channel-rear-right.oga stereo/audio-channel-side-left.oga stereo/audio-channel-front-right.oga stereo/audio-channel-front-center.oga stereo/audio-channel-side-right.oga stereo/audio-channel-front-left.oga stereo/audio-channel-rear-center.oga stereo/audio-channel-rear-left.oga stereo/audio-test-signal.oga
+Copyright: The ALSA developers
+License: GPL-2+
+
+Files: stereo/bell.oga stereo/complete.oga stereo/trash-empty.oga
+Copyright: Dr. Richard Boulanger et al
+License: CC-BY-3.0
+
+Files: stereo/camera-shutter.oga stereo/screen-capture.oga
+Copyright: freesound user horsthorstensen
+License: CC-BY-SA-3.0
+
+Files: stereo/phone-outgoing-busy.oga stereo/phone-outgoing-calling.oga
+Copyright: Damien Sandras <dsandras@seconix.com>
+License: GPL-2+
+
+Files: stereo/suspend-error.oga
+Copyright: Red Hat, Inc.
+License: CC-BY-SA-3.0
+
+Files: stereo/message-new-instant.oga
+Copyright: freesound user Zabuhailo
+License: CC-BY-3.0
+
+Files: phone-incoming-call.oga
+Copyright: lwdickens
+License: CC0/Public Domain
+
+The following files are from SFR:
+
+Files: stereo/audio-volume-change.oga stereo/bell.oga
+Copyright: SFR
+License: CC-BY-SA-3.0
