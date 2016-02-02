@@ -1,0 +1,3 @@
+hardstatus string '%{= c}[ %{C}%H %{c}][%= %{= kw}%?%-Lw%?%{B}(%{W}%n*%f%t%?(%u)%?%{B})%{w}%?%+Lw%?%?%= %{c}][%{B} %m-%d %{W} %c %{c}]'
+hardstatus on
+hardstatus alwayslastline
